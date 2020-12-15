@@ -1,6 +1,6 @@
 A LinkedList is a sequence of Node objects. 
 
-The Nodes posses data fields and at least one pointer that references the next and, in some cases, the previous Node, 
+The Nodes possess at data field(s) and at least one pointer that references the next and, in some cases, the previous Node, 
 if there is one.
 
 Disadvantages:
